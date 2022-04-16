@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1650119552 source:e:\online\waddah\twitter_assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"system.h"
+
+1650118744 source:e:\online\waddah\twitter_assignment\user.c
+	"user.h"
+
+1650118761 e:\online\waddah\twitter_assignment\user.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1650121808 source:e:\online\waddah\twitter_assignment\system.c
+	"system.h"
+
+1650104640 e:\online\waddah\twitter_assignment\system.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"user.h"
+	"tweet.h"
+
+1650100517 source:e:\online\waddah\twitter_assignment\tweet.c
+	"tweet.h"
+
+1650103604 e:\online\waddah\twitter_assignment\tweet.h
+	<stdio.h>
+	<stdlib.h>
+
